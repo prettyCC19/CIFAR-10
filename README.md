@@ -1,2 +1,2 @@
 因为Kaggle可使用的gpu有额度，所以最后图片输出后刚好用完额度，有个OutOfMemoryError提示。
-可通过13.13cifar文件查看模型
+可通过13-13cifar.ipny文件查看模型
